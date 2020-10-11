@@ -1,4 +1,4 @@
 # stepik-auto-tests-course
-homeworks from course
+This repository will store homework from the course "Test Automation with Selenium and Python" by Stepik.
 
-link: https://stepik.org/lesson/187065/step/7?unit=161976
+Link: https://stepik.org/course/575/
